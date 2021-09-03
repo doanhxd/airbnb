@@ -8,10 +8,12 @@ function Banner() {
         layout="fill"
         objectFit="cover"
       />
-      <div className="absolute top-1/2 w-full text-center">
-        <p className="text-sm sm:text-lg">Not sure where to go? Perfect.</p>
-        <button className="text-purple-500 bg-white px-10 py-4 shadow-md rounded-full font-bold my-3 hover:shadow-xl active:scale-90 transition duration-400">
-          I'm flexible
+      <div className="absolute top-1/2 w-full text-center font-semibold text-gray-800">
+        <p className="text-sm sm:text-lg pb-4">
+          Not sure where to go? Perfect.
+        </p>
+        <button className="box-box px-10 py-4 0my-3 active:scale-95 active:duration-400">
+          <p className="font-gradient">I'm flexible</p>
         </button>
       </div>
     </div>

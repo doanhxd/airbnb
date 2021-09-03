@@ -1,5 +1,9 @@
 module.exports = {
   images: {
-    domains: ["links.papareact.com"],
+    domains: ["links.papareact.com", "www.panasiaadventures.com"],
+  },
+  env: {
+    mapbox_key:
+      "pk.eyJ1IjoiZG9hbmh4ZCIsImEiOiJja3QzdTgwemwweHg2MnZzMjVqYzBmNG5tIn0.4GZ3jbh48zdUa0Kd5CUOkQ",
   },
 };
