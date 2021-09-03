@@ -13,7 +13,9 @@ function Banner() {
           Not sure where to go? Perfect.
         </p>
         <button className="box-box px-10 py-4 0my-3 active:scale-95 active:duration-400">
-          <p className="font-gradient">I'm flexible</p>
+          <a href="https://doanhxd.github.io" className="font-gradient">
+            I'm flexible
+          </a>
         </button>
       </div>
     </div>
